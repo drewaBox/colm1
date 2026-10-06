@@ -1,0 +1,3 @@
+# Block private folders and the secret .env file from the browser.
+RedirectMatch 404 ^/(.*/)?(\.env|backend|database|storage|tests)(/.*)?$
+Options -Indexes

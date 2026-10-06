@@ -1,0 +1,4 @@
+.env
+storage/uploads/*
+!storage/uploads/.htaccess
+!storage/uploads/.gitkeep

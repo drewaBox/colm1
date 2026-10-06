@@ -1,0 +1,2 @@
+# Nobody can open uploaded files directly. Files are only served through api/file.php.
+Require all denied

@@ -1,0 +1,30 @@
+2026-10-04 01:46:31 PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'keywords' in 'field list' in C:\xampp\htdocs\coml to\new-ui-main\backend\database.php:25
+2026-10-04 01:46:33 PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'keywords' in 'field list' in C:\xampp\htdocs\coml to\new-ui-main\backend\database.php:25
+2026-10-04 01:46:34 PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'keywords' in 'field list' in C:\xampp\htdocs\coml to\new-ui-main\backend\database.php:25
+2026-10-04 01:46:44 PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.school_level' in 'field list' in C:\xampp\htdocs\coml to\new-ui-main\backend\database.php:25
+2026-10-04 01:46:45 PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'keywords' in 'field list' in C:\xampp\htdocs\coml to\new-ui-main\backend\database.php:25
+2026-10-04 01:46:46 PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'keywords' in 'field list' in C:\xampp\htdocs\coml to\new-ui-main\backend\database.php:25
+2026-10-04 01:49:15 Document check not possible: Tesseract OCR failed: 
+2026-10-04 01:49:23 Document check not possible: Tesseract OCR failed: 
+2026-10-04 01:49:51 Document check not possible: Tesseract OCR failed: 
+2026-10-04 01:52:10 Chatbot: Failed to connect to 127.0.0.1 port 11434 after 2033 ms: Couldn't connect to server
+2026-10-04 01:52:56 Document check not possible: Tesseract OCR failed: 
+2026-10-04 01:53:00 Document check not possible: Tesseract OCR failed: 
+2026-10-04 01:53:07 Document check not possible: Tesseract OCR failed: 
+2026-10-04 01:53:10 Document check not possible: Tesseract OCR failed: 
+2026-10-04 01:53:10 Document check not possible: Tesseract OCR failed: 
+2026-10-04 01:53:16 Document check not possible: Tesseract OCR failed: 
+2026-10-04 01:55:25 Document check not possible: Tesseract OCR failed: 
+2026-10-04 01:55:39 Document check not possible: Tesseract OCR failed: 
+2026-10-04 02:01:02 Document check not possible: pdftotext (poppler) failed: 
+2026-10-04 02:01:07 Document check not possible: pdftotext (poppler) failed: 
+2026-10-04 02:01:11 Document check not possible: pdftotext (poppler) failed: 
+2026-10-04 02:03:29 Document check not possible: pdftotext (poppler) failed: 
+2026-10-04 02:04:03 Document check not possible: pdftotext (poppler) failed: 
+2026-10-04 02:04:15 Document check not possible: pdftotext (poppler) failed: 
+2026-10-04 02:05:29 Document check not possible: Tesseract OCR failed: 
+2026-10-04 02:05:56 Document check not possible: pdftotext (poppler) failed: 
+2026-10-04 02:06:30 Document check not possible: pdftotext (poppler) failed: 
+2026-10-04 02:06:37 Document check not possible: pdftotext (poppler) failed: 
+2026-10-04 02:08:33 Document check not possible: Tesseract OCR is not installed (or TESSERACT_PATH / POPPLER_PATH in .env is wrong).
+2026-10-04 02:13:22 Chatbot: Failed to connect to 127.0.0.1 port 11434 after 2017 ms: Couldn't connect to server
